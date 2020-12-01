@@ -10,3 +10,4 @@
 
 # Black clover
 * Asta
+* Yami
